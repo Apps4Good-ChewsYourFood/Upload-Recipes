@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617700339401",
+    "project_id": "populaterecipes",
+    "storage_bucket": "populaterecipes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617700339401:android:28ef0c401f979d03be6718",
+        "android_client_info": {
+          "package_name": "com.example.uploadrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617700339401-nk1nqnbdo6ljl0t9upetvp3sltca2j7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA25S5e7w_FxYOog0W4Ny9t3q-Ghl4PZvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617700339401-nk1nqnbdo6ljl0t9upetvp3sltca2j7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
